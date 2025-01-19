@@ -219,7 +219,7 @@ Pico.
 
 ![](media/16bf665b42375d352eda2a40e48bb13f.png)
 
-（3）单击![](media/f79b2c42507d12b91ca23ea0bb87c5c2.png)“运行当前脚本”来执行程序“Hello World!”, "Welcome Keyestudio" 将打印在“Shell”窗口。
+（3）单击![](media/f79b2c42507d12b91ca23ea0bb87c5c2.png)“运行当前脚本”来执行程序“Hello World!”, "Welcome keyes" 将打印在“Shell”窗口。
 
 ![](media/db4bada12ee67e86b74d14ece7e8c59e.png)
 
@@ -446,7 +446,7 @@ Raspberry Pi Pico的根目录。
 
 ![](media/16bf665b42375d352eda2a40e48bb13f.png)
 
-3.单击![](media/f79b2c42507d12b91ca23ea0bb87c5c2.png)“运行当前脚本”来执行程序“Hello World!”, "Welcome Keyestudio" 将打印在“Shell”窗口。
+3.单击![](media/f79b2c42507d12b91ca23ea0bb87c5c2.png)“运行当前脚本”来执行程序“Hello World!”, "Welcome keyes" 将打印在“Shell”窗口。
 
 ![](media/db4bada12ee67e86b74d14ece7e8c59e.png)
 
@@ -657,7 +657,7 @@ I = U / R = 3 V / 10 KΩ= 0.0003A= 0.3mA。
 
 中间部分宽条的连接孔分为上下两部分，是面包板的主工作区，用来插接原件和跳线。在同一列中的5个插孔（即a-b-c-d-e，f-g-h-i-j）是互相连通的；列和列之间以及凹槽上下部分是不连通的。在做实验的时候，通常是使用两窄一宽组成的小单元，在宽条部分搭接电路的主体部分，上面的窄条取一行做电源，下面的窄条取一行做接地。中间宽条用于连接电路，由于凹槽上下是不连通的，所以集成块一般跨插在凹槽上。
 
-（4）keyestudio 树莓派Pico板的扩展板使用方法
+（4）keyes 树莓派Pico板的扩展板使用方法
 
 将树莓派Pico板堆叠在扩展板上即可使用，如下图：
 
@@ -1806,7 +1806,7 @@ LCD_128X32_DOT技术参数：
 
 ![](media/f700aaa4fe8618b36365bf734eb09652.png)
 
-单击![](media/da852227207616ccd9aff28f19e02690.png)“运行当前脚本”，代码开始执行，你会看到的现象是：128X32LCD模块显示屏第一行显示“KEYESTUDIO”、第二行显示“ABCDEFGHIJKLMNOPQR”、第三行显示“123456789+-\*/\<\>=$@”、第四行显示“%^&(){}:;'|?,.~\\\[\]”。按“Ctrl+C”或单击![](media/27451c8a9c13e29d02bc0f5831cfaf1f.png)“停止/重启后端进程”退出程序。
+单击![](media/da852227207616ccd9aff28f19e02690.png)“运行当前脚本”，代码开始执行，你会看到的现象是：128X32LCD模块显示屏第一行显示“keyes”、第二行显示“ABCDEFGHIJKLMNOPQR”、第三行显示“123456789+-\*/\<\>=$@”、第四行显示“%^&(){}:;'|?,.~\\\[\]”。按“Ctrl+C”或单击![](media/27451c8a9c13e29d02bc0f5831cfaf1f.png)“停止/重启后端进程”退出程序。
 
 ![](media/1d2902e2a5ed5138dc103c372887927c.png)
 
